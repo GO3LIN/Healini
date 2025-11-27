@@ -13,7 +13,7 @@
         <!-- Illustration -->
         <div class="flex-1 w-full max-w-lg lg:max-w-2xl slide-in-right">
           <img 
-            src="/hero-illustration.svg" 
+            src="/healini/hero-illustration.svg" 
             alt="Healini - Gestion de Cabinet Médical" 
             class="w-full h-auto drop-shadow-2xl"
           />
