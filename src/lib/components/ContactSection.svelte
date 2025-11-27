@@ -132,7 +132,7 @@
         <!-- Illustration -->
         <div class="hidden lg:block">
           <img 
-            src="/healini/contact-illustration.svg" 
+            src="/Healini/contact-illustration.svg" 
             alt="Contactez-nous" 
             class="w-full h-auto drop-shadow-xl"
           />

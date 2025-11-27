@@ -14,7 +14,7 @@
   <div class="navbar container mx-auto px-4">
     <div class="flex-none">
       <a href="#hero" class="btn btn-ghost text-xl font-bold text-primary flex items-center gap-2">
-        <img src="/healini/healini-logo.svg" alt="Healini Logo" class="w-10 h-10" />
+        <img src="/Healini/healini-logo.svg" alt="Healini Logo" class="w-10 h-10" />
         <span>Healini</span>
       </a>
     </div>
